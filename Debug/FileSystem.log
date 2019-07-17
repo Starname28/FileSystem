@@ -1,0 +1,6 @@
+﻿  Node.cpp
+  DocumentControler.cpp
+  DirectoryControler.cpp
+  Создание кода...
+f:\cod\filesystem\filesystem\directorycontroler.cpp(22): error C4700: использована неинициализированная локальная переменная "newDirectory"
+f:\cod\filesystem\filesystem\documentcontroler.cpp(17): error C4700: использована неинициализированная локальная переменная "doc"
