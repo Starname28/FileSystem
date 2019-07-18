@@ -28,7 +28,7 @@ bool DirectoryControler::removeDirectory(Node * dir)
 {
 
 	dir->getParent()->removeChild(dir);
-	return false;
+	return true;
 }
 
 Node * DirectoryControler::renameDirectory(std::string & name, Node * dir)

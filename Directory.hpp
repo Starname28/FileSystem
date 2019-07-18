@@ -38,12 +38,12 @@ public:
 //+append(document* doc, string body) : document *
 //+changeColor(Document* doc, color): document*
 
-DZ
-UserControler
--<user*>
-+creatUser(name, login, parol..)
-+login(nick, password): User*
-+logout(user*):bool
-+remove(user*):bool
-+changeName(user*) and td : user*
-+DirectoryControler *ControlerFor(User*)
+//DZ
+//UserControler
+//-<user*>
+//+creatUser(name, login, parol..)
+//+login(nick, password): User*
+//+logout(user*):bool
+//+remove(user*):bool
+//+changeName(user*) and td : user*
+//+DirectoryControler *ControlerFor(User*)
